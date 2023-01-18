@@ -1,6 +1,6 @@
 {
-    "name": "kustomdesigner/vue-boilerplate",
-    "description": "Vue Boilerplate",
+    "name": "kustomdesigner/wp-paginate-cpt-categories",
+    "description": "Wordpress Plugin",
 	"license": "GPL-3.0+",
 	"version": "1.0.0",
 	"keywords": [
@@ -11,7 +11,7 @@
 		"php": ">=5.4.0",
         "vlucas/phpdotenv": "^5.4"
 	},
-	"homepage": "https://github.com/Kustomdesigner/download-sermons-wp-plugin",
+	"homepage": "https://github.com/KustomDeveloper/wp-paginate-cpt-categories",
 	"require-dev": {
 		"wp-coding-standards/wpcs": "^2.3",
 		"phpcompatibility/phpcompatibility-wp": "^2.1"
